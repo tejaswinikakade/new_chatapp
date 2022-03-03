@@ -106,7 +106,7 @@ DATABASES = {
         'NAME': 'teju',
         'USER': 'Teju',
         'PASSWORD': 'teju1821',
-        'HOST': 'teju',
+        'HOST': 'rds.ctepkrkta0ux.ap-south-1.rds.amazonaws.com',
         'PORT': '3306',
     }
 }
